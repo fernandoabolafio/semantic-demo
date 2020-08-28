@@ -1,3 +1,12 @@
+# [0.2.0](https://github.com/fernandoabolafio/semantic-demo/compare/v0.1.0...v0.2.0) (2020-08-28)
+
+
+### Features
+
+* **hello-world:** update hello world ([5248522](https://github.com/fernandoabolafio/semantic-demo/commit/5248522c67c4c755b9f1895ee7f0df08516c3a59))
+
+
+
 # [0.1.0](https://github.com/fernandoabolafio/semantic-demo/compare/v0.0.1...v0.1.0) (2020-08-28)
 
 
