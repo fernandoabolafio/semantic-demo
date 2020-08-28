@@ -1,6 +1,6 @@
 {
   "name": "semantic",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "semantic versioning demo",
   "main": "index.js",
   "scripts": {
